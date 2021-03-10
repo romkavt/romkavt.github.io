@@ -30,7 +30,7 @@ twitter_username: yoomoneynews
 github_username:  romanvt
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
